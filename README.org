@@ -1,0 +1,11 @@
+* Visual guide to CodeQL
+  This repository contains several maps illustrating the pieces involved in CodeQL
+  deployment and query writing.  In particular, the maps try to illustrate the
+  connections between CI/CD, query development, and query deployment.
+
+** Using the illustrations
+   The illustrations are drawn using the open-source https://www.drawio.com/ tool.
+   PDF exports are provided they can be viewed without downloading any extra
+   tools.
+
+   
